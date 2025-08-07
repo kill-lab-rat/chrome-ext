@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Secure Workspace Lock",
+  "version": "1.0",
+  "description": "Disable Ctrl+S, right-click, and DevTools.",
+  "permissions": ["scripting", "activeTab"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
