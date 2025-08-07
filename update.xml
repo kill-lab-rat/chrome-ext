@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
-  <app appid="hemaelglbfdgangjfkhpfdcdblnbdkhd">
-    <updatecheck codebase="https://github.com/kill-lab-rat/chrome-ext.crx" version="1.0.0" />
+  <app appid="jlaifecmfbkinniidfelgpkhihpihpbn">
+    <updatecheck codebase="https://github.com/kill-lab-rat/chrome-ext/blob/main/Ekstensi%20Chrome.crx" version="1.0" />
   </app>
 </gupdate>
+
